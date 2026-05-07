@@ -44,9 +44,9 @@ The project demonstrates:
 
 ## Real-Time Factory Monitoring Dashboard
 
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
-![Dashboard](screenshots/dashboard3.png)
+![Dashboard](screenshots/Dashboard1.png)
+![Dashboard](screenshots/Dashboard2.png)
+![Dashboard](screenshots/Dashboard3.png)
 
 ---
 
@@ -62,7 +62,7 @@ The project demonstrates:
 
 ## IoT Sensor Data Simulation
 
-![Producer](screenshots/producer.png)
+![Producer](screenshots/Kafka_Producer.png)
 
 ---
 
